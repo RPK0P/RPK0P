@@ -4,9 +4,6 @@ B.Tech Student
 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/RPK0P?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
-<img alt="followers" src="https://img.shields.io/github/followers/RPK0P?label=Followers&style=social">
-
-
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RPK_SHAYR) 
 
